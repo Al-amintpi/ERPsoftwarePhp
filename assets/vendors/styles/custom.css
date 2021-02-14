@@ -1,0 +1,83 @@
+.register-padding{
+	padding: 30px;
+}
+
+.single-margin{
+	margin-bottom: 30px;
+}
+
+.extra-margin a i{
+	margin-right: 10px;
+}
+
+.admin-register-margin{
+	margin-bottom: 30px;
+}
+
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -30px;
+  position: relative;
+  z-index: 2;
+}
+
+.field-icon2 {
+  float: right;
+  margin-left: -25px;
+  margin-top: -30px;
+  position: relative;
+  z-index: 2;
+}
+
+.field-icon3{
+  float: right;
+  margin-left: -25px;
+  margin-top: 15px;
+  position: relative;
+  z-index: 2;
+}
+
+.field-icon-reset {
+  float: right;
+  margin-left: -24px;
+  margin-top: 16px;
+  position: relative;
+  z-index: 2;
+}
+
+
+.medium-password{background-color: #E4DB11;border:#BBB418 1px solid;}
+.weak-password{background-color: #FF6600;border:#AA4502 1px solid;}
+.strong-password{background-color: #12CC1A;border:#0FA015 1px solid;}
+
+
+.profile-user-img img {
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+}
+
+.modal-padding{
+  padding:20px;
+}
+
+.userjoin-background-image {
+  background: url('../../../assets/vendors/images/banner-img.png')no-repeat scroll 0 0 / cover;
+  height: 300px;
+  height: 655px;
+}
+
+.user_join_margin{
+  margin:200px 0px;
+}
+
+.card-header{
+  text-align: center;
+}
+
+.programmer{
+  display: none;
+  margin-top: 20px; 
+}
