@@ -1,0 +1,40 @@
+body{
+	overflow-x: hidden; 
+}
+.sponsor-img{
+	position: relative;
+	 
+}
+
+.sponsor-img-main-size {
+	width: 100%;
+	height: 200px;
+}
+
+.sponsor-img-size{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.sponsor-img-size img{
+	width: 100%;
+	height: 100%;
+}
+
+.sponsor-image-delete {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	bottom: -128px;
+	right: 62px;
+}
+
+.sponsor-image-delete a i {
+	font-size: 40px;
+	color: #000;
+}
+
+.show-sponsor-image{
+	column-count: 3;
+}
